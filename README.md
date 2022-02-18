@@ -5,6 +5,7 @@
 ## 構成
 
 + etc : 未分類
++ blog : blog用のソースファイル
 
 ## 参考記事
 
@@ -22,6 +23,7 @@ A repository to refer to your Gist.
 ## Configuration
 
 + etc : Uncategorized
++ blog : source files for blog
 
 ## Reference Articles
 This is based on the following reference article.
