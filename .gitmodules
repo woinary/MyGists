@@ -4,3 +4,15 @@
 [submodule "etc/main.rs"]
 	path = etc/main.rs
 	url = https://gist.github.com/woinary/123651b31ac1317431f9c01ba7e982af
+[submodule "etc/main.py"]
+	path = etc/main.py
+	url = https://gist.github.com/woinary/aa643fab73a1bf58efd7e8557f26dbca
+[submodule "etc/slice_test.py"]
+	path = etc/slice_test.py
+	url = https://gist.github.com/woinary/aa643fab73a1bf58efd7e8557f26dbca
+[submodule "etc/paiza_learning_python3_string.py"]
+	path = etc/paiza_learning_python3_string.py
+	url = https://gist.github.com/woinary/366e6abcfb90e524f877b940e82e87fb
+[submodule "etc/test.md"]
+	path = etc/test.md
+	url = https://gist.github.com/woinary/6f0f06f5234ccb7c989a61b9157cedce
