@@ -1,0 +1,6 @@
+[submodule "etc/main.rb"]
+	path = etc/main.rb
+	url = https://gist.github.com/woinary/2fe9abca03a85a34d037fc8c3e6be07c
+[submodule "etc/main.rs"]
+	path = etc/main.rs
+	url = https://gist.github.com/woinary/123651b31ac1317431f9c01ba7e982af
