@@ -112,3 +112,33 @@
 [submodule "blog/tech-dart-tour-1/maps.dart"]
 	path = blog/tech-dart-tour-1/maps.dart
 	url = https://gist.github.com/woinary/b3fdac8463cf1b293ec7973b3653a9e0
+[submodule "blog/tech-dart-tour-2/functions.dart"]
+	path = blog/tech-dart-tour-2/functions.dart
+	url = https://gist.github.com/woinary/b4b86401706199a6852caa649db0dd5c
+[submodule "blog/tech-dart-tour-2/named_parameters.dart"]
+	path = blog/tech-dart-tour-2/named_parameters.dart
+	url = https://gist.github.com/woinary/f362eeb60d0571c63a709506345dd5a9
+[submodule "blog/tech-dart-tour-2/optional_position_parameters.dart"]
+	path = blog/tech-dart-tour-2/optional_position_parameters.dart
+	url = https://gist.github.com/woinary/db2bf5d0b62b0bcdea6ccb8cfe150b24
+[submodule "blog/tech-dart-tour-2/default_parameters.dart"]
+	path = blog/tech-dart-tour-2/default_parameters.dart
+	url = https://gist.github.com/woinary/14b859fa81032fba77c5ac9afc8823af
+[submodule "blog/tech-dart-tour-2/first_class_object.dart"]
+	path = blog/tech-dart-tour-2/first_class_object.dart
+	url = https://gist.github.com/woinary//672c9d414a15ca1841aa2e9c01fbfa9d
+[submodule "blog/tech-dart-tour-2/anonymous_functions.dart"]
+	path = blog/tech-dart-tour-2/anonymous_functions.dart
+	url = https://gist.github.com/woinary/060606f31e73a10b3e24280ea9f6f30d
+[submodule "blog/tech-dart-tour-2/lexical_scope.dart"]
+	path = blog/tech-dart-tour-2/lexical_scope.dart
+	url = https://gist.github.com/woinary/0aee99b1f0e13e6d511c6c9ba43e0d0b
+[submodule "blog/tech-dart-tour-2/lexical_scope2.dart"]
+	path = blog/tech-dart-tour-2/lexical_scope2.dart
+	url = https://gist.github.com/woinary/5e2656fafcb1b8acb634dae3f59e499b
+[submodule "blog/tech-dart-tour-2/lexical_scope3.dart"]
+	path = blog/tech-dart-tour-2/lexical_scope3.dart
+	url = https://gist.github.com/woinary/5d427051051392608832745e6b89ec5e
+[submodule "blog/tech-dart-tour-2/lexical_closure.dart"]
+	path = blog/tech-dart-tour-2/lexical_closure.dart
+	url = https://gist.github.com/woinary/aa01efd9d0829dd8f86ab56a3ae3f083
