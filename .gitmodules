@@ -142,3 +142,9 @@
 [submodule "blog/tech-dart-tour-2/lexical_closure.dart"]
 	path = blog/tech-dart-tour-2/lexical_closure.dart
 	url = https://gist.github.com/woinary/aa01efd9d0829dd8f86ab56a3ae3f083
+[submodule "blog/tech-dart-tour-3/other_operators.dart"]
+	path = blog/tech-dart-tour-3/other_operators.dart
+	url = https://gist.github.com/woinary/18b6ea5be0c1debcace76ee5c076a6ea
+[submodule "blog/tech-dart-tour-3/cascade.dart"]
+	path = blog/tech-dart-tour-3/cascade.dart
+	url = https://gist.github.com/woinary/f8d9f093c72b362ba2f58f58f74315b4
