@@ -148,3 +148,24 @@
 [submodule "blog/tech-dart-tour-3/cascade.dart"]
 	path = blog/tech-dart-tour-3/cascade.dart
 	url = https://gist.github.com/woinary/f8d9f093c72b362ba2f58f58f74315b4
+[submodule "blog/tech-dart-tour-4/if_else.dart"]
+	path = blog/tech-dart-tour-4/if_else.dart
+	url = https://gist.github.com/woinary/75bed05f65d58711c26c0f20208ff93b
+[submodule "blog/tech-dart-tour-4/for_loop.dart"]
+	path = blog/tech-dart-tour-4/for_loop.dart
+	url = https://gist.github.com/woinary/f82ebc259bb69270cde777f0a567dda9
+[submodule "blog/tech-dart-tour-4/for_in.dart"]
+	path = blog/tech-dart-tour-4/for_in.dart
+	url = https://gist.github.com/woinary/9e6f304c0b97b75343d16c6ba29653c4
+[submodule "blog/tech-dart-tour-4/while_loop.dart"]
+	path = blog/tech-dart-tour-4/while_loop.dart
+	url = https://gist.github.com/woinary/a297f877279861aae8f8f814fac16e28
+[submodule "blog/tech-dart-tour-4/break_continue.dart"]
+	path = blog/tech-dart-tour-4/break_continue.dart
+	url = https://gist.github.com/woinary/12abcb3c9546c48201133dbf723a8690
+[submodule "blog/tech-dart-tour-4/switch_case.dart"]
+	path = blog/tech-dart-tour-4/switch_case.dart
+	url = https://gist.github.com/woinary/ab2910fef9e89b9607a80493c9bdd7f7
+[submodule "blog/tech-dart-tour-4/finally.dart"]
+	path = blog/tech-dart-tour-4/finally.dart
+	url = https://gist.github.com/woinary/e7617f6a0965a4b151a986936d3a848d
