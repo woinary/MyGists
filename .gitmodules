@@ -169,3 +169,72 @@
 [submodule "blog/tech-dart-tour-4/finally.dart"]
 	path = blog/tech-dart-tour-4/finally.dart
 	url = https://gist.github.com/woinary/e7617f6a0965a4b151a986936d3a848d
+[submodule "blog/tech-dart-tour-5/class.dart"]
+	path = blog/tech-dart-tour-5/class.dart
+	url = https://gist.github.com/woinary/b974f1a277fbd787be6828c260c30622
+[submodule "blog/tech-dart-tour-5/const_constructor.dart"]
+	path = blog/tech-dart-tour-5/const_constructor.dart
+	url = https://gist.github.com/woinary/0ef3be46198f8fef310d3c4f6d103991
+[submodule "blog/tech-dart-tour-5/runtimeType.dart"]
+	path = blog/tech-dart-tour-5/runtimeType.dart
+	url = https://gist.github.com/woinary/fbc31ae80b90c5cd7042b8f917841b7c
+[submodule "blog/tech-dart-tour-5/instance_variable.dart"]
+	path = blog/tech-dart-tour-5/instance_variable.dart
+	url = https://gist.github.com/woinary/3d14392cf4fb3e2dfe977a62810867fb
+[submodule "blog/tech-dart-tour-5/final_instance_variable.dart"]
+	path = blog/tech-dart-tour-5/final_instance_variable.dart
+	url = https://gist.github.com/woinary/7be0f3169d7719049c10aa3a4b8d2d9c
+[submodule "blog/tech-dart-tour-5/late_final_instance_variable.dart"]
+	path = blog/tech-dart-tour-5/late_final_instance_variable.dart
+	url = https://gist.github.com/woinary/f604bd65eb0c81a08e3ebc70d564e882
+[submodule "blog/tech-dart-tour-5/class_constructor.dart"]
+	path = blog/tech-dart-tour-5/class_constructor.dart
+	url = https://gist.github.com/woinary/7b02dacf89d71292e84e0aec4f199857
+[submodule "blog/tech-dart-tour-5/class_named_constructor.dart"]
+	path = blog/tech-dart-tour-5/class_named_constructor.dart
+	url = https://gist.github.com/woinary/3d6dbb82b3d2443f0987fc63792368c2
+[submodule "blog/tech-dart-tour-5/class_invoke_non_default_constructor.dart"]
+	path = blog/tech-dart-tour-5/class_invoke_non_default_constructor.dart
+	url = https://gist.github.com/woinary/386d6e19f01210b2c6a4756a134e6db7
+[submodule "blog/tech-dart-tour-5/class_initializer_list.dart"]
+	path = blog/tech-dart-tour-5/class_initializer_list.dart
+	url = https://gist.github.com/woinary/5115a204b239644aab3ad60e704d294c
+[submodule "blog/tech-dart-tour-5/class_constructor_redirecting.dart"]
+	path = blog/tech-dart-tour-5/class_constructor_redirecting.dart
+	url = https://gist.github.com/woinary/b5abf76a51ae536d2e9afdc98651f031
+[submodule "blog/tech-dart-tour-5/class_const_constructor.dart"]
+	path = blog/tech-dart-tour-5/class_const_constructor.dart
+	url = https://gist.github.com/woinary/371b78dea4c2ecce216a61d1235147a9
+[submodule "blog/tech-dart-tour-5/class_factory_constructor.dart"]
+	path = blog/tech-dart-tour-5/class_factory_constructor.dart
+	url = https://gist.github.com/woinary/f77457d2a2e4ac1d57d9ffcd463af306
+[submodule "blog/tech-dart-tour-5/class_instance_methods.dart"]
+	path = blog/tech-dart-tour-5/class_instance_methods.dart
+	url = https://gist.github.com/woinary/e078988e41529bd5972c53aa12019c2b
+[submodule "blog/tech-dart-tour-5/class_operator.dart"]
+	path = blog/tech-dart-tour-5/class_operator.dart
+	url = https://gist.github.com/woinary/cd5f5ebf25a938e8fb1766b643f106f2
+[submodule "blog/tech-dart-tour-5/class_getter_setter.dart"]
+	path = blog/tech-dart-tour-5/class_getter_setter.dart
+	url = https://gist.github.com/woinary/864b83b63b4e7f6cee410c265a2f889b
+[submodule "blog/tech-dart-tour-5/class_abstract_methods.dart"]
+	path = blog/tech-dart-tour-5/class_abstract_methods.dart
+	url = https://gist.github.com/woinary/178e89f110e5d7ad6c98534e946d7a2d
+[submodule "blog/tech-dart-tour-5/class_implicit_interface.dart"]
+	path = blog/tech-dart-tour-5/class_implicit_interface.dart
+	url = https://gist.github.com/woinary/6dd3b29a8c00638c0f4b37fe747c6c4f
+[submodule "blog/tech-dart-tour-5/class_extends.dart"]
+	path = blog/tech-dart-tour-5/class_extends.dart
+	url = https://gist.github.com/woinary/6d2493b658225a02c58bf0a48a715fbe
+[submodule "blog/tech-dart-tour-5/class_enum.dart"]
+	path = blog/tech-dart-tour-5/class_enum.dart
+	url = https://gist.github.com/woinary/582c34847584ace27db9554dc7fe73a2
+[submodule "blog/tech-dart-tour-5/class_mixin.dart"]
+	path = blog/tech-dart-tour-5/class_mixin.dart
+	url = https://gist.github.com/woinary/f9705f6eb4f8297d41b167dcd8b36e39
+[submodule "blog/tech-dart-tour-5/class_static_variables.dart"]
+	path = blog/tech-dart-tour-5/class_static_variables.dart
+	url = https://gist.github.com/woinary/77d8e2832757d02d7ad78b0b9cfae615
+[submodule "blog/tech-dart-tour-5/class_static_methods.dart"]
+	path = blog/tech-dart-tour-5/class_static_methods.dart
+	url = https://gist.github.com/woinary/5aadd59b877a57b43c8351a3a7356b05
