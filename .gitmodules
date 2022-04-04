@@ -238,3 +238,24 @@
 [submodule "blog/tech-dart-tour-5/class_static_methods.dart"]
 	path = blog/tech-dart-tour-5/class_static_methods.dart
 	url = https://gist.github.com/woinary/5aadd59b877a57b43c8351a3a7356b05
+[submodule "blog/tech-dart-tour-6/simple_generics.dart"]
+	path = blog/tech-dart-tour-6/simple_generics.dart
+	url = https://gist.github.com/woinary/37c1e16876e24fd0840cd07a668cf29c
+[submodule "blog/tech-dart-tour-6/generics_type_parameter.dart"]
+	path = blog/tech-dart-tour-6/generics_type_parameter.dart
+	url = https://gist.github.com/woinary/b5ddf8446d523d0f464cb9a1c3264549
+[submodule "blog/tech-dart-tour-6/generics_collection_literals.dart"]
+	path = blog/tech-dart-tour-6/generics_collection_literals.dart
+	url = https://gist.github.com/woinary/45e8c10bd66fa6ca3854a573b53346d1
+[submodule "blog/tech-dart-tour-6/generics_collection.dart"]
+	path = blog/tech-dart-tour-6/generics_collection.dart
+	url = https://gist.github.com/woinary/737c2f1041a9efa8de04187bd9f60f84
+[submodule "blog/tech-dart-tour-6/generics_restricting.dart"]
+	path = blog/tech-dart-tour-6/generics_restricting.dart
+	url = https://gist.github.com/woinary/54404a23ab722fe6ca1a5692bcb3f409
+[submodule "blog/tech-dart-tour-6/generics_methods.dart"]
+	path = blog/tech-dart-tour-6/generics_methods.dart
+	url = https://gist.github.com/woinary/e7ddbf46053cf6c6b7aa6db0912c8b20
+[submodule "blog/tech-dart-tour-6/generics_parameterized_constructor.dart"]
+	path = blog/tech-dart-tour-6/generics_parameterized_constructor.dart
+	url = https://gist.github.com/woinary/6fce6dd57886522d9e29511df26c4dbd
