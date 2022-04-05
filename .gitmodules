@@ -259,3 +259,6 @@
 [submodule "blog/tech-dart-tour-6/generics_parameterized_constructor.dart"]
 	path = blog/tech-dart-tour-6/generics_parameterized_constructor.dart
 	url = https://gist.github.com/woinary/6fce6dd57886522d9e29511df26c4dbd
+[submodule "blog/tech-dart-tour-7/async_sample.dart"]
+	path = blog/tech-dart-tour-7/async_sample.dart
+	url = https://gist.github.com/woinary/f51743c8e4c8d5887d6b0be0fccef9c4
