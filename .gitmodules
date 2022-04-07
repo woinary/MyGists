@@ -262,3 +262,24 @@
 [submodule "blog/tech-dart-tour-7/async_sample.dart"]
 	path = blog/tech-dart-tour-7/async_sample.dart
 	url = https://gist.github.com/woinary/f51743c8e4c8d5887d6b0be0fccef9c4
+[submodule "blog/tech-dart-tour-8/generators_iterable.dart"]
+	path = blog/tech-dart-tour-8/generators_iterable.dart
+	url = https://gist.github.com/woinary/cb27b099a807d0890ad84d34eb6277c1
+[submodule "blog/tech-dart-tour-8/generators_stream.dart"]
+	path = blog/tech-dart-tour-8/generators_stream.dart
+	url = https://gist.github.com/woinary/500addaf39b00280f26adc6994856fd0
+[submodule "blog/tech-dart-tour-8/generators_recursive.dart"]
+	path = blog/tech-dart-tour-8/generators_recursive.dart
+	url = https://gist.github.com/woinary/fe09192421ade9f9189a9ddab52c3ab0
+[submodule "blog/tech-dart-tour-8/callable_class.dart"]
+	path = blog/tech-dart-tour-8/callable_class.dart
+	url = https://gist.github.com/woinary/bf577ba5ef507d4b5129d39ad5f130e9
+[submodule "blog/tech-dart-tour-8/typedefs.dart"]
+	path = blog/tech-dart-tour-8/typedefs.dart
+	url = https://gist.github.com/woinary/2998103a3fc0d41a7af00f8317d14238
+[submodule "blog/tech-dart-tour-8/typedef_function.dart"]
+	path = blog/tech-dart-tour-8/typedef_function.dart
+	url = https://gist.github.com/woinary/2763ae398e3226ec39c578b92308befb
+[submodule "blog/tech-dart-tour-8/metadata.dart"]
+	path = blog/tech-dart-tour-8/metadata.dart
+	url = https://gist.github.com/woinary/bee420af3c190f5d923ecb4d4d38cb9f
