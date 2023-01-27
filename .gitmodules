@@ -283,3 +283,6 @@
 [submodule "blog/tech-dart-tour-8/metadata.dart"]
 	path = blog/tech-dart-tour-8/metadata.dart
 	url = https://gist.github.com/woinary/bee420af3c190f5d923ecb4d4d38cb9f
+[submodule "TheRustProgrammingLanguage/exercise-3-1"]
+	path = TheRustProgrammingLanguage/exercise-3-1
+	url = https://gist.github.com/woinary/d0c97fa5fc6f7c83e246bb256abe099c
