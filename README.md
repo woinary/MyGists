@@ -6,6 +6,7 @@
 
 + etc : 未分類
 + blog : blog用のソースファイル
++ TheRustProgrammingLamguage : [Rustプログラミング言語](https://doc.rust-jp.rs/book-ja/)の演習問題
 
 ## 参考記事
 
@@ -24,6 +25,7 @@ A repository to refer to your Gist.
 
 + etc : Uncategorized
 + blog : source files for blog
++ TheRustProgrammingLamguage : Exercise of [The Rust Programming Language](https://doc.rust-jp.rs/book-ja/)
 
 ## Reference Articles
 This is based on the following reference article.
