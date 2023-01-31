@@ -298,3 +298,6 @@
 [submodule "TheRustProgrammingLanguage/exercise-8-2"]
 	path = TheRustProgrammingLanguage/exercise-8-2
 	url = https://gist.github.com/woinary/c43922c2356bbc84e0dcee0d492a799a
+[submodule "TheRustProgrammingLanguage/exercise-8-3"]
+	path = TheRustProgrammingLanguage/exercise-8-3
+	url = https://gist.github.com/woinary/788d43ec8a1a2c66cb99617dfbccfdcf
