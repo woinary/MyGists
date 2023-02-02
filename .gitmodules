@@ -304,3 +304,6 @@
 [submodule "TheRustProgrammingLanguage/exercise-10-2-1"]
 	path = TheRustProgrammingLanguage/exercise-10-2-1
 	url = https://gist.github.com/woinary/b6c519896dfb08fee87aab0d88edff36
+[submodule "TheRustProgrammingLanguage/exercise-10-2-2"]
+	path = TheRustProgrammingLanguage/exercise-10-2-2
+	url = https://gist.github.com/woinary/3ec841ae4ba314458a78c31fd8c11fcf
